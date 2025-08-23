@@ -27,7 +27,7 @@ const Category = () => {
     console.log(nat);
   };
   return (
-    <div className="bg-slate-100 absolute right-0 top-17 z-0 p-2 w-[80%]">
+    <div className="bg-slate-100    z-0 p-2 ">
       <div className="flex pt-6 px-2 pb-5 justify-between">
         <h1 className="text-2xl font-semibold">Kategoriya</h1>
         <div className="flex gap-3">
